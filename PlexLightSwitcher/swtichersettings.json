@@ -1,0 +1,11 @@
+﻿{
+  "PlayerName": "",
+  "Email": "",
+  "Password": "",
+  "LocationName": "",
+  "EventsToScenes": {
+    "media.stop": "pause",
+    "media.play.episode": "play.episode",
+    "media.play.movie": "play.movie"
+  }
+}
